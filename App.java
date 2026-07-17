@@ -1,6 +1,6 @@
 public static void main(String[] arg){
-    int[] a = {0,1,2,3,4}
-    for()
+    int[] a = {0,1,2,3,4};
+    for(int b :a){
     int b = switch (a){
     case 0  -> {
         yield 5;
@@ -9,5 +9,6 @@ public static void main(String[] arg){
     default -> 6 
     };
 System.out.printline(b);
+    }
 }
 
