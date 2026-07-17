@@ -7,7 +7,7 @@ case 0 -> 5;
 case 1 -> 7;
 case 2 -> 4;
 case 8 -> 19;
-case 10 ->7
+case 10 ->9999;
 default -> 6;
 };
 System.out.println(result);
