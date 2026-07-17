@@ -5,6 +5,7 @@ public static void main(String[] arg){
     case 0  -> {
         yield 5;
     }
+    case -> 7
     case 2 -> 4
     default -> 6 
     };
