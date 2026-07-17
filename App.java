@@ -7,6 +7,7 @@ public static void main(String[] arg){
     }
     case -> 7
     case 2 -> 4
+    case 3 -> 
     default -> 6 
     };
 System.out.printline(b);
